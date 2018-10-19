@@ -1,2 +1,2 @@
-Portfolio
-Made using JS,HTML,CSS.
+This is my Portfolio.
+Made using JS, HTML, CSS.
